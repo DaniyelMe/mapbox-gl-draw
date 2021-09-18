@@ -84,6 +84,7 @@ mapbox.Draw({
     'paint': {
       'circle-radius': 3,
       'circle-color': '#fbb03b'
+     }
     },
     // polygon outline stroke
     // This doesn't style the first edge of the polygon, which uses the line stroke styling instead
